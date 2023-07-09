@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SharonShihys
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on more 
+- 📫 Reach me at LinkedIn - Sharon Shih
